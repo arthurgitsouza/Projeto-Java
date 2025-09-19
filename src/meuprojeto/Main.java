@@ -14,7 +14,7 @@ public class Main {
         System.out.println("--- CALCULADORA DE IMPOSTO DE IMPORTAÇÃO (EUA) ---");
 
         // PASSO 1: Coletar as entradas do usuário
-        System.out.print("Informe a descrição do produto: ");
+        System.out.print("Informe qual é o produto: ");
         String descricao = scanner.nextLine(); // nextLine() lê a linha inteira (incluindo espaços)
 
         System.out.println("\n--- Informe o país de Origem ---");
